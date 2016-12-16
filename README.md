@@ -1,0 +1,2 @@
+# SwiftLeanStrategy
+ios项目瘦身套路，swift为主、混编oc、cocoaPods管理的iOS项目的可执行文件减Size详细攻略
